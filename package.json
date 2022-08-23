@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "electron": "^20.0.3"
+  },
+  "name": "electron-practice",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PS2217/electron-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PS2217/electron-practice/issues"
+  },
+  "homepage": "https://github.com/PS2217/electron-practice#readme",
+  "description": ""
+}
